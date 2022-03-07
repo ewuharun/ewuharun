@@ -10,7 +10,7 @@
 ### 🌱About Me
 
 
-I am currently working as an Android Developer in a Company. While I was studying at my university i felt that coding is nothing but a play with brains. I love to play with logic. I try hard to solve a complex problem without searching the solutions in google. If i failed to solve that problem then i just take rest for a while beacause sometimes the logic behind the code comes after taking rest.
+I am currently working as an Android Developer in a Company. While I was studying at my university i felt that coding is nothing but a play with brains. I love to play with logic. I try hard to solve a complex problem.
   
   
 
