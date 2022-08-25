@@ -4,13 +4,12 @@
 **Email:** ewu.harun@gmail.com<br/>
 **Country:** Bangladesh<br/>
 **City:** Dhaka<br/>
-**Phone 1:** +8801531946638<br/>
-**Phone 2:** +8801903028309<br/>
+**Phone 1:** +8801903028309<br/>
 
 ### 🌱About Me
 
 
-I am currently working as an Android Developer in a Company. While I was studying at my university i felt that coding is nothing but a play with brains. I love to play with logic. I try hard to solve a complex problem.
+I am working as an Software Development Engineer-I at Craftsmen. Working with serverless technology like aws , terraform , serverless , sns , sqs , lambda , dynamodb ec2 etc. Integrating these techonologies with Java. Moreover, I have 1.5 years of experience on Mobile Application Development.
   
   
 
@@ -70,8 +69,12 @@ Ending Date : December 2019<br/>
 
 
 ### 🌱Skills
+**AWS**<br/>
+**Terraform**<br/>
+**Lambda**<br/>
+**SNS,SQS**<br/>
+**DynamoDb**<br/>
 **Java**<br/>
-**c++**<br/>
 **Api**<br/>
 **Data Structure**<br/>
 **Algorithm**<br/>
@@ -81,15 +84,13 @@ Ending Date : December 2019<br/>
 
 
 ### 🌱Projects
-**SmartSales Omera for selling and managing the employee (Android App)**<br/>
+**SmartSales application of OMERA, MOBIL , COCOCOLA (Android App)**<br/>
 **Daily Expense Report (Android App)**<br/>
-**Fordo for Vat Collection Middle Man (Flutter App)**<br/>
 
 ### 🌱Achievement
 During My Bachelor Degree I have achieved meda lalon scholarship from my university.
 
 
-- 🔭 I’m currently working on **Android App Development**
-- 🌱 I’m currently learning ...**Backend Development for Dashboard for my App**
-- 👯 I’m looking to collaborate on ...**Any Android Project**
+- 🔭 I’m currently working on **Serverless Technology using AWS and JAVA**
+- 🌱 I’m currently learning ...**Backend Development Using Serverless Technology**
 
