@@ -92,5 +92,5 @@ During My Bachelor Degree I have achieved meda lalon scholarship from my univers
 
 
 - 🔭 I’m currently working on **Serverless Technology using AWS and JAVA**
-- 🌱 I’m currently learning ...**Backend Development Using Serverless Technology**
+- 🌱 I’m currently learning **Backend Development Using Serverless Technology**
 
