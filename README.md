@@ -57,7 +57,7 @@ I am working as an Software Development Engineer-I at Craftsmen. Working with se
 </TABLE>
 
  ### 🌱Working Experience
-  6 Months
+  1.5 years
   As an Android Developer<br/>
   Business Accelerate BD LTD
  
