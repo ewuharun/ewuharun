@@ -9,7 +9,7 @@
 ### 🌱About Me
 
 
-I am working as an Software Development Engineer-I at Craftsmen. Working with serverless technology like aws , terraform , serverless , sns , sqs , lambda , dynamodb ec2 etc. Integrating these techonologies with Java. Moreover, I have 1.5 years of experience on Mobile Application Development.
+I am working as an Software Development Engineer-I at Craftsmen. Working with serverless technology like aws , terraform , serverless , sns , sqs , lambda , dynamodb , ec2 etc. Integrating these techonologies with Java. Moreover, I have 1.5 years of experience on Mobile Application Development.
   
   
 
