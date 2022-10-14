@@ -2,6 +2,7 @@
 ### 😄Personal Information
 **Name:** Md.Harun or rashid<br/>
 **Email:** ewu.harun@gmail.com<br/>
+**LinkedIn:** https://www.linkedin.com/in/harun-or-rashid-5b88b5142/<br/>
 **Country:** Bangladesh<br/>
 **City:** Dhaka<br/>
 **Phone 1:** +8801903028309<br/>
