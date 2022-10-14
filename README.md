@@ -10,7 +10,8 @@
 ### 🌱About Me
 
 
-I am working as an Software Development Engineer-I at Craftsmen. Working with serverless technology like aws , terraform , serverless , sns , sqs , lambda , dynamodb , ec2 etc. Integrating these techonologies with Java. Moreover, I have 1.6 years of experience on Mobile Application Development.
+I am a tech inthusiast with 1.6 years of professional application development using Java and currently working as a Software Development Engineer - I at Craftsmen Ltd.
+I am working with AWS Services like Lambda, SNS , SQS , DynamoDb , StepFunction , ECS , ECR , RDS , AppSync , EC2 autoscaling , MediaLive , Media Package and Media Connect , Docker , React , GraphQl , FFMpeg , Serverless , Terraform etc.
   
   
 
@@ -46,20 +47,11 @@ I am working as an Software Development Engineer-I at Craftsmen. Working with se
     <TD>2015</TD>
     <TD>GPA : 4.75 Out Of 5</TD>
   </TR>
-  <TR>
-    <TD scope="row">Secondary School Certificate (SSC)</TD>
-    <TD>
-     Science
-    </TD>
-    <TD>Kalachandpur High School (Dhaka,Baridhara)</TD>
-    <TD>2013</TD>
-    <TD>GPA : 4.50 Out OF 5</TD>
-  </TR>
 </TABLE>
 
  ### 🌱Working Experience
-  1.5 years
-  As an Android Developer<br/>
+  1.6 years
+  As an Application Developer<br/>
   Business Accelerate BD LTD
  
 ### 🌱Professional Training
@@ -74,7 +66,14 @@ Ending Date : December 2019<br/>
 **Terraform**<br/>
 **Lambda**<br/>
 **SNS,SQS**<br/>
+**ECR, ECS**<br/>
 **DynamoDb**<br/>
+**StepFunction**<br/>
+**EC2**<br/>
+**GraphQl, AppSync**<br/>
+**Media Live, Media Package**<br/>
+**Serverless, Terraform**<br/>
+**React, SQL**<br/>
 **Java**<br/>
 **Api**<br/>
 **Data Structure**<br/>
@@ -87,11 +86,13 @@ Ending Date : December 2019<br/>
 ### 🌱Projects
 **SmartSales application of OMERA, MOBIL , COCOCOLA (Android App)**<br/>
 **Daily Expense Report (Android App)**<br/>
+**Weather Forecasting App (Microservice)**<br/>
+**A maven project using Java implementing the service listed above (Microservice)**<br/>
 
 ### 🌱Achievement
-During My Bachelor Degree I have achieved meda lalon scholarship from my university.
+Medha Lalon Scholarship from East West University.
 
 
 - 🔭 I’m currently working on **Serverless Technology using AWS and JAVA**
-- 🌱 I’m currently learning **Backend Development Using Serverless Technology**
+- 🌱 I’m currently learning **Video Streaming Application Using Serverless Technology**
 
