@@ -69,6 +69,11 @@ Ending Date : December 2019<br/>
 **AWS**<br/>
 **Terraform**<br/>
 **Lambda**<br/>
+**VPC**<br/>
+**Subnetting**<br/>
+**Routing**<br/>
+**EC2**<br/>
+**Load Balancer**<br/>
 **SNS,SQS**<br/>
 **ECR, ECS**<br/>
 **DynamoDb**<br/>
