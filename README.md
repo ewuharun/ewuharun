@@ -10,8 +10,8 @@
 ### 🌱About Me
 
 
-I am a tech inthusiast with 1.6 years of professional application development using Java and currently working as a Software Development Engineer - I at Craftsmen Ltd.
-I am working with AWS Services like Lambda, SNS , SQS , DynamoDb , StepFunction , ECS , ECR , RDS , AppSync , EC2 autoscaling , MediaLive , Media Package and Media Connect , Docker , React , GraphQl , FFMpeg , Serverless , Terraform etc.
+I am a tech inthusiast with 2.5 years of professional application development using Java , Node.js & AWS and currently working as a Software Development Engineer - I at Craftsmen Ltd.
+I am working with AWS Services like VPC, Subnetting , Routing , EC2 , Load Balancer , Lambda, SNS , SQS , DynamoDb , StepFunction , ECS , ECR , RDS , AppSync , EC2 autoscaling , MediaLive , Media Package and Media Connect , Docker , React , GraphQl , FFMpeg , Serverless , Terraform etc.
   
   
 
@@ -50,9 +50,12 @@ I am working with AWS Services like Lambda, SNS , SQS , DynamoDb , StepFunction 
 </TABLE>
 
  ### 🌱Working Experience
-  1.6 years
-  As an Application Developer<br/>
+  1.5 years
+  As a Mobile & Web Application Developer<br/>
   Business Accelerate BD LTD
+  1 year
+  As a Software Developer Engineer- I<br/>
+  Craftsmentltd.com
  
 ### 🌱Professional Training
 <b>Mobile application Development from BITM<br/></b>
