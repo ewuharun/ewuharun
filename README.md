@@ -50,9 +50,12 @@ I am working with AWS Services like VPC, Subnetting , Routing , EC2 , Load Balan
 </TABLE>
 
  ### 🌱Working Experience
-  <br>1.5 years As a Mobile & Web Application Developer<b/><br/>
-  Business Accelerate BD LTD<br/>
-  <b>1 year As a Software Developer Engineer- I <b/><br/>
+  <b>1.5 years As a Mobile & Web Application Developer<b/>
+  <br/>
+  Business Accelerate BD LTD
+  <br/>
+  <b>1 year As a Software Developer Engineer- I <b/>
+  <br/>
   Craftsmentltd.com
  
 ### 🌱Professional Training
